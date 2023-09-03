@@ -1,0 +1,19 @@
+
+Eunsung Jo:
+  name        : "Eunsung Jo"
+  bio         : "Autonomous Driving Developer 👨🏻‍💻<br>
+  - Computer Vision<br>
+  - Machine Learning<br>
+  - Image Processing"
+  avatar      : "/assets/images/profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:anderson93@naver.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/esjo93"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/vamonos_es/"
+    
