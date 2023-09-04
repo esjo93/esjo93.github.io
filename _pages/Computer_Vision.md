@@ -1,5 +1,4 @@
 ---
-# title: "Computer Vision"
 author_profile: true
 permalink: /computer vision/
 toc_sticky: true
