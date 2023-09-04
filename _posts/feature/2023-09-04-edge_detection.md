@@ -1,13 +1,11 @@
 ---
 title: "Edge Detection"
 excerpt: "이미지(영상)에서 edge를 검출하는 방법을 알아본다."
-category: computer_vision
+category: computer vision
 # excerpt: "Github에 공개되어있는 대표적인 Face Parsing 실험 및 비교"
 
-# categories:
-#  - CV
 tags:
-  - vision
+  - computer vision
 search: true
 
 # 목차
