@@ -1,7 +1,7 @@
 ---
 # title: "Computer Vision"
 author_profile: true
-permalink: /computer_vision/
+permalink: /computer vision/
 toc_sticky: true
 toc_ads : true
 layout: single
@@ -13,11 +13,11 @@ use_math: true
 
 ### 1. Traditional Computer Vision
 $$\quad$$**Feature Detection**<br>
-$$\quad\quad$$- [Edge Detection](/computer_vision/edge_detection)<br>
-$$\quad\quad$$- [SIFT Algorithm](/computer_vision/sift)
+$$\quad\quad$$- [Edge Detection](/computer vision/edge_detection)<br>
+$$\quad\quad$$- [SIFT Algorithm](/computer vision/sift)
 
 $$\quad$$**Image Restoration**<br>
-$$\quad\quad$$ - [Image Dehazing](/computer_vision/dehazing)
+$$\quad\quad$$ - [Image Dehazing](/computer vision/image_dehazing)
 
 ### 2. (Deep) Learning-Based Computer Vision
 $$\quad$$**Image Classification**<br>
