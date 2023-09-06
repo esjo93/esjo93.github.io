@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "어려운 것이 아니라 익숙하지 않은 것"
+title                    : "마스터 조's Blog 🚀"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eunsung Jo"
@@ -110,7 +110,8 @@ author:
   bio         : "Autonomous Driving Developer 👨🏻‍💻<br>
   - Computer Vision<br>
   - Machine Learning<br>
-  - Image Processing"
+  - Image Processing<br><br>
+  어려운 것이 아니라 익숙하지 않은 것."
   location         : "Seoul, Korea"
   email            :
   links:
