@@ -1,13 +1,11 @@
 ---
 author_profile: true
 permalink: /computer vision/
+title: Computer Vision
 toc_sticky: true
 toc_ads : true
 layout: single
 use_math: true
----
-
-# Computer Vision
 ---
 
 ### 1. Traditional Computer Vision
@@ -26,5 +24,7 @@ $$\quad$$**Object Detection**<br>
 $$\quad$$**Semantic Segmentation**<br>
 
 $$\quad$$**Generative Models**<br>
+$$\quad\quad$$**Generative Adversarial(GAN)**
 
 $$\quad$$**Vision Transformer**<br>
+$$\quad\quad$$**ViT**

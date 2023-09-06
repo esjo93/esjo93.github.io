@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true 
 use_math: true
 ---
-
+## Introduction
 Edge는 어떻게 정의할까요?
 
 $$\lVert \nabla I \rVert$$
