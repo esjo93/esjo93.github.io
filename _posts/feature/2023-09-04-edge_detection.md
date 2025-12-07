@@ -88,11 +88,13 @@ Gaussian filter와 같은 loss pass filter를 활용해 영상(image)에 튀는 
 ### 2) Gradient Intensity 구하기
 노이즈가 제거된 이미지에서 에지의 강도와 방향을 계산합니다. 에지는 픽셀 값의 변화가 큰 지점을 의미하며, 이 변화율을 **그라디언트(Gradient)**라고 합니다.
 
-방법: Sobel 필터와 같은 미분 연산자 커널을 사용하여 이미지의 수평 방향($G_x$)과 수직 방향($G_y$)의 그라디언트를 계산합니다.
+방법: Sobel 필터와 같은 미분 연산자 커널을 사용하여 이미지의 수평 방향($$G_x$$)과 수직 방향($$G_y$$)의 그라디언트를 계산합니다.
 
-강도 (Magnitude): 에지의 세기 $M$을 계산합니다.
+강도 (Magnitude): 에지의 세기 $$M$$을 계산합니다.
 
-$$M = \sqrt{G_x^2 + G_y^2}$$방향 (Direction): 에지의 방향 $\theta$를 계산합니다.
+$$M = \sqrt{G_x^2 + G_y^2}$$
+
+방향 (Direction): 에지의 방향 $$\theta$$를 계산합니다.
 
 $$\theta = \arctan(G_y / G_x)$$
 
